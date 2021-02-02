@@ -1,5 +1,19 @@
 # Check Point CloudGuard ShiftLeft integration with Jenkins CICD pipeline:
 
+### Requirements:
+- CloudGuard CSPM (Dome9) API Key  
+	Scope: Global  
+	Type: Secret Text  
+	Secret: API Secret Key  
+	ID: CHKP_CLOUDGUARD_SECRET  
+	Description: Dome9 API Secret  
+
+	Scope: Global  
+	Type: Secret Text  
+	Secret: API Key ID  
+	ID: CHKP_CLOUDGUARD_ID  
+	Description: Dome9 API ID  
+
 ## ![header image](warning.jpeg) This demo contains Malware so please do not use in a production environment and Handle with Care
 
 
