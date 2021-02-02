@@ -13,6 +13,8 @@
 	Secret: API Key ID  
 	ID: CHKP_CLOUDGUARD_ID  
 	Description: Dome9 API ID  
+- Install shiftleft binary on jenkins server  
+- Install Terraform on jenkins server  
 
 ## ![header image](warning.jpeg) This demo contains Malware so please do not use in a production environment and Handle with Care
 
